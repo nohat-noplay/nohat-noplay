@@ -1,4 +1,4 @@
-# Hi, I'm Saf
+# Hi, I'm Saf 👋
 
 I'm a Data Science student with strong interests in:
 - Geospatial Science
@@ -8,6 +8,8 @@ I'm a Data Science student with strong interests in:
 - Optimisation
 
 I'm currently learning and building projects with **Python**, **R**, and **ArcGIS Pro**.
+
+## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white)
@@ -16,11 +18,14 @@ I'm currently learning and building projects with **Python**, **R**, and **ArcGI
 🌱 Passionate about sustainability, the outdoors, and applying technology for a better future  
 🚀 Organised, futurist-minded, and excited to collaborate on meaningful projects
 
-I love solving real-world problems with data and I'm always open to new opportunities to learn, collaborate, and grow.
-This repository acts as a portfolio of my ongoing learning - academic, personal, and collaborative projects.
+---
 
-I'm looking to collaborate and create!
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/safflatters/)
+This GitHub serves as my portfolio, showcasing university projects, personal work, and collaborative learning.
+
+I'm passionate about solving real-world problems with data, and I'm always open to new opportunities to learn, build, and grow.
+
+## Connect with me
+📫 [LinkedIn](https://www.linkedin.com/in/safflatters/)
 
 <!---
 nohat-noplay/nohat-noplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
