@@ -17,7 +17,7 @@ I'm passionate about solving real-world problems with data and I'm always open t
 ## Connect with me
 📫 [LinkedIn](https://www.linkedin.com/in/safflatters/)
 
-## Languages and Tools
+## Tech Stack
 I'm currently learning and building projects with **Python**, **R**, and **ArcGIS Pro**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
