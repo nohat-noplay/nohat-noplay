@@ -1,11 +1,11 @@
 # Hi, I'm Saf 👋
 
 I'm a Data Science student with strong interests in:
-- Geospatial Science
-- Data Visualisation
 - Machine Learning & AI
 - Evolutionary Algorithms
 - Optimisation
+- Geospatial Science
+- Data Visualisation
 
 🎓 High Distinction student | ⚡ Background in Energy and Electrical  
 🌱 Passionate about sustainability, the outdoors, and applying technology for a better future  
