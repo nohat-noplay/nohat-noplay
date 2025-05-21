@@ -5,7 +5,7 @@ I'm a Data Science student with strong interests in:
 - Evolutionary Algorithms
 - Optimisation
 - Geospatial Science
-- Data Visualisation
+- Digital Twins & Simulation Modelling
 
 🎓 High Distinction student | ⚡ Background in Energy and Electrical  
 🌱 Passionate about sustainability, the outdoors, and applying technology for a better future  
