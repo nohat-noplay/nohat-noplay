@@ -2,7 +2,7 @@
 
 I'm a Data Science student with strong interests in:
 - Machine Learning & AI
-- Evolutionary Algorithms
+- Meta-heuristic Algorithms
 - Optimisation
 - Geospatial Science
 - Digital Twins & Simulation Modelling
